@@ -14,8 +14,7 @@ Ministry of Environment
 ## Problem Statement:
 The proliferation of electronic devices has led to a corresponding surge in electronic waste (e-waste), presenting a multifaceted challenge that demands urgent attention. As the Ministry of Environment, it is imperative to acknowledge the adverse environmental and human health impacts associated with improper disposal and inadequate management of e-waste.
 
-## Key Issues
-```
+## Key Issues:
 1.Rapid Growth
 2.Environmental Hazards
 3.Resource Depletion
@@ -25,7 +24,6 @@ Propossed Solutions
 2.Extended Producer Responsibility (EPR)
 3.Infrastructure Development
 4.Formalization of Informal Sector
-```
 ## Idea
 E-waste management plays an important role in protecting :
 
