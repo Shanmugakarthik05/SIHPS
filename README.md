@@ -1,5 +1,4 @@
 # Smart India Hackathon Workshop
-# Date:18.05.2024
 ## Register Number:212223220105
 ## Name:SHANMUGAKARTHIK G
 ## Problem Title
